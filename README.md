@@ -1,2 +1,1 @@
-# my_app
-flutter quiz app 
+Quiz App:- It is Basic app made by usinf Flutter and Dart.
